@@ -9,7 +9,7 @@ fun main() {
     afficherCarte(boissons)
     modifieCarte(boissons, 2, "Frappé")
     afficherCarte(boissons)
-    // Le programme modife bien la carte des boissons alors que la varibale boissons est
+    // Le programme modifie bien la carte des boissons alors que la variable boissons est
     // déclarée avec le mot clé "val". Peux-tu expliquer pourquoi cela est possible ?
     // ...
 }
