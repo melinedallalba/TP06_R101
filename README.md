@@ -1,11 +1,11 @@
 # TP-06 For loop, Ranges, Arrays
 
-### NOM : DOE
-### Prénom : John
+### NOM : DALL'ALBA
+### Prénom : Méline
 ### TP group :
 - [ ] A
 - [ ] B
 - [ ] C
 - [ ] D
-- [ ] E
+- [X] E
 - [ ] F
